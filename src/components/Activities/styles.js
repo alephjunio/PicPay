@@ -79,7 +79,7 @@ export const Divider = styled.View`
 
 export const Date = styled.Text`
   color: #fff;
-  margin-let:5px;
+  margin-left:5px;
   `;
 
 export const Actions = styled.View`
